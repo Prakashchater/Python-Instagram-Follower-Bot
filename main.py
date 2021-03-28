@@ -3,10 +3,10 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import ElementClickInterceptedException, NoSuchElementException
 from time import sleep
 
-EMAIL = "chaterprakash@gmail.com"
-PASSWORD = "pcchater@160997"
+EMAIL = "YOUR INSTAGRAM EMAIL "
+PASSWORD = "YOUR PASSWORD"
 SIMILAR_ACCOUNT = "chefsteps"
-webdriver_path = "C:\Chrome driver\chromedriver.exe"
+webdriver_path = "WEB DRIVER PATH"
 url = "https://www.instagram.com/"
 sleep(3)
 class InstaFollower:
